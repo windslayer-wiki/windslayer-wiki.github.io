@@ -54,11 +54,11 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 
 |---|---|---|---|
 |아이콘|스킬명|설명|인게임|
-|![반월참][warrior_berserker_01_png]|반월참||![반월참][warrior_berserker_01_png]|
-|![무기봉쇄][warrior_berserker_02_png]|무기봉쇄||![무기봉쇄][warrior_berserker_02_png]|
-|![폭주][warrior_berserker_03_png]|폭주||![폭주][warrior_berserker_03_png]|
-|![섬광베기][warrior_berserker_04_png]|섬광베기||![섬광베기][warrior_berserker_04_png]|
-|![열화폭섬][warrior_berserker_05_png]|열화폭섬||![열화폭섬][warrior_berserker_05_png]|
+|![반월참][warrior_berserker_01_png]|반월참||![반월참][warrior_berserker_01_gif]|
+|![무기봉쇄][warrior_berserker_02_png]|무기봉쇄||![무기봉쇄][warrior_berserker_02_gif]|
+|![폭주][warrior_berserker_03_png]|폭주||![폭주][warrior_berserker_03_gif]|
+|![섬광베기][warrior_berserker_04_png]|섬광베기||![섬광베기][warrior_berserker_04_gif]|
+|![열화폭섬][warrior_berserker_05_png]|열화폭섬||![열화폭섬][warrior_berserker_05_gif]|
 
 ### 성기사
 > ##### TIP
@@ -69,11 +69,11 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 
 |---|---|---|---|
 |아이콘|스킬명|설명|인게임|
-|![여명][warrior_paladin_01_png]|여명||![여명][warrior_paladin_01_png]|
-|![진군의오라][warrior_paladin_02_png]|진군의오라||![진군의오라][warrior_paladin_02_png]|
-|![지원의오라][warrior_paladin_03_png]|지원의오라||![지원의오라][warrior_paladin_03_png]|
-|![신성회오리][warrior_paladin_04_png]|신성회오리||![신성회오리][warrior_paladin_04_png]|
-|![성스러운보호][warrior_paladin_05_png]|성스러운보호||![성스러운보호][warrior_paladin_05_png]|
+|![여명][warrior_paladin_01_png]|여명||![여명][warrior_paladin_01_gif]|
+|![진군의오라][warrior_paladin_02_png]|진군의오라||![진군의오라][warrior_paladin_02_gif]|
+|![지원의오라][warrior_paladin_03_png]|지원의오라||![지원의오라][warrior_paladin_03_gif]|
+|![신성회오리][warrior_paladin_04_png]|신성회오리||![신성회오리][warrior_paladin_04_gif]|
+|![성스러운보호][warrior_paladin_05_png]|성스러운보호||![성스러운보호][warrior_paladin_05_gif]|
 
 ---
 ## 무도가
@@ -125,7 +125,7 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 |![드래곤킥][monk_counter_02_png]|드래곤킥|a|![드래곤킥][monk_counter_02_gif]|
 |![금강불괴][monk_counter_03_png]|금강불괴|a|![금강불괴][monk_counter_03_gif]|
 |![어림각][monk_counter_04_png]|어림각|a|![어림각][monk_counter_04_gif]|
-|![비공찌르기][monk_counter_05_png]|비공찌르기|a|![비공찌르기][monk_counter_015gif]|
+|![비공찌르기][monk_counter_05_png]|비공찌르기|a|![비공찌르기][monk_counter_05_gif]|
 
 ---
 ## 궁수
