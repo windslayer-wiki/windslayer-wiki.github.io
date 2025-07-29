@@ -353,7 +353,7 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 
 [warrior_banner]: https://windslayer-wiki.github.io/assets/windslayer/jobs/Warrior.webp
 [warrior_attak_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/attack.gif
-[warrior_power_attak_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/power_attack.gif
+[warrior_power_attack_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/power_attack.gif
 [warrior_normal_01_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_01.png
 [warrior_normal_01_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_01.gif
 [warrior_normal_02_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_02.png
@@ -368,6 +368,8 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 [warrior_normal_06_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_06.gif
 [warrior_normal_07_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_07.png
 [warrior_normal_07_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_07.gif
+[warrior_normal_08_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_08.png
+[warrior_normal_08_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_08.gif
 [warrior_berserker_01_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/berserker_01.png
 [warrior_berserker_01_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/berserker_01.gif
 [warrior_berserker_02_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/berserker_02.png
