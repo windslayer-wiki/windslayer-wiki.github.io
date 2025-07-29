@@ -418,6 +418,16 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 [monk_fighter_04_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/fighter_04.gif
 [monk_fighter_05_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/fighter_05.png
 [monk_fighter_05_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/fighter_05.gif
+[monk_counter_01_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_01.png
+[monk_counter_01_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_01.gif
+[monk_counter_02_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_02.png
+[monk_counter_02_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_02.gif
+[monk_counter_03_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_03.png
+[monk_counter_03_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_03.gif
+[monk_counter_04_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_04.png
+[monk_counter_04_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_04.gif
+[monk_counter_05_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_05.png
+[monk_counter_05_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/monk/counter_05.gif
 
 
 [archer_banner]: https://windslayer-wiki.github.io/assets/windslayer/jobs/Archer.webp
