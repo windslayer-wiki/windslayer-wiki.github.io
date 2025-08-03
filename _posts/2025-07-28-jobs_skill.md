@@ -29,7 +29,7 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 >
 > 사용 무기 : **검**  
 > 전직 장소 : **무역도시 아마쿠사 - 천정도관**  
-> 전직 재료 : **원숭이 꼬리털 10개**, **원숭이 뿔5개**, **귀원대장 수염 1개** **1차 전직의 증표**
+> 전직 재료 : **원숭이 꼬리털 10개**, **원숭이 뿔5개**, **귀원대장 수염 1개**, **1차 전직의 증표**
 {: .block-tip }
 
 |---|---|---|---|
@@ -121,11 +121,11 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 
 |---|---|---|---|
 |아이콘|스킬명|설명|인게임|
-|![반격][monk_counter_01_png]|반격|a|![반격][monk_counter_01_gif]|
-|![드래곤킥][monk_counter_02_png]|드래곤킥|a|![드래곤킥][monk_counter_02_gif]|
-|![금강불괴][monk_counter_03_png]|금강불괴|a|![금강불괴][monk_counter_03_gif]|
-|![어림각][monk_counter_04_png]|어림각|a|![어림각][monk_counter_04_gif]|
-|![비공찌르기][monk_counter_05_png]|비공찌르기|a|![비공찌르기][monk_counter_05_gif]|
+|![반격][monk_counter_01_png]|반격|상대의 근접공격을 반격한다.<br>단, 상대가 공격하지 않으면 발동하지 않는다.<br>30레벨에 최초 습득 할 수 있다.|![반격][monk_counter_01_gif]|
+|![드래곤킥][monk_counter_02_png]|드래곤킥|<span style="color:red;">**광역기**</span><br>자신의 전방으로 용의 형상의 멋진 날라차기를 한다.<br>불 속성 스킬이며, 이동 경로에 있는 모든 적을 타격한다.<br>33레벨에 최초 습득할 수 있다.|![드래곤킥][monk_counter_02_gif]|
+|![금강불괴][monk_counter_03_png]|금강불괴|일정 시간동안 물리방어력과 속성방어력을 상승시킨다.<br>37레벨에 최초 습득할 수 있다.|![금강불괴][monk_counter_03_gif]|
+|![어림각][monk_counter_04_png]|어림각|상대의 원거리 공격을 무시하는 발차기를 한다.<br>41레벨에 최초 습득할 수 있다.|![어림각][monk_counter_04_gif]|
+|![비공찌르기][monk_counter_05_png]|비공찌르기|상대의 비공을 찌른다. 비공찌르기를 당한 상대는 5초 후에 큰 데미지를 입는다.<br>물 속성 스킬이며, 약공격 모션에 타격된 적은 5초 뒤에 빙결 상태가 되며 큰 피해를 입는다.|![비공찌르기][monk_counter_05_gif]|
 
 ---
 ## 궁수
@@ -304,10 +304,10 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 |![마나전이][priest_normal_06_png]|마나전이||![마나전이][priest_normal_06_gif]|
 |![사거리향상][priest_normal_07_png]|사거리향상||![사거리향상][priest_normal_07_gif]|
 |![원거리마나전이][priest_normal_08_png]|원거리마나전이||![원거리마나전이][priest_normal_08_gif]|
-|![마나충전향상][priest_normal_08_png]|마나충전향상||![마나충전향상][priest_normal_08_gif]|
-|![마법방어막][priest_normal_08_png]|마법방어막||![마법방어막][priest_normal_08_gif]|
-|![대지강타][priest_normal_08_png]|대지강타||![대지강타][priest_normal_08_gif]|
-|![가시나무][priest_normal_08_png]|가시나무||![가시나무][priest_normal_08_gif]|
+|![마나충전향상][priest_normal_09_png]|마나충전향상||![마나충전향상][priest_normal_09_gif]|
+|![마법방어막][priest_normal_10_png]|마법방어막||![마법방어막][priest_normal_10_gif]|
+|![대지강타][priest_normal_11_png]|대지강타||![대지강타][priest_normal_11_gif]|
+|![가시나무][priest_normal_12_png]|가시나무||![가시나무][priest_normal_12_gif]|
 
 ### 비숍
 > ##### TIP
@@ -352,7 +352,7 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 [normal_defence_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/normal/defence.gif
 
 [warrior_banner]: https://windslayer-wiki.github.io/assets/windslayer/jobs/Warrior.webp
-[warrior_attak_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/attack.gif
+[warrior_attack_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/attack.gif
 [warrior_power_attack_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/power_attack.gif
 [warrior_normal_01_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_01.png
 [warrior_normal_01_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/warrior/normal_01.gif
@@ -469,6 +469,8 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 [archer_beastmaster_04_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/archer/beastmaster_04.gif
 [archer_beastmaster_05_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/archer/beastmaster_05.png
 [archer_beastmaster_05_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/archer/beastmaster_05.gif
+[archer_beastmaster_06_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/archer/beastmaster_06.png
+[archer_beastmaster_06_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/archer/beastmaster_06.gif
 
 [rogue_banner]: https://windslayer-wiki.github.io/assets/windslayer/jobs/Rogue.webp
 [rogue_attack_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/rogue/attack.gif
@@ -549,6 +551,8 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 [wizard_summoner_04_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/wizard/summoner_04.gif
 [wizard_summoner_05_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/wizard/summoner_05.png
 [wizard_summoner_05_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/wizard/summoner_05.gif
+[wizard_summoner_06_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/wizard/summoner_06.png
+[wizard_summoner_06_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/wizard/summoner_06.gif
 
 [priest_banner]: https://windslayer-wiki.github.io/assets/windslayer/jobs/Priest.webp
 [priest_attack_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/attack.gif
@@ -569,6 +573,14 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 [priest_normal_07_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_07.gif
 [priest_normal_08_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_08.png
 [priest_normal_08_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_08.gif
+[priest_normal_09_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_09.png
+[priest_normal_09_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_09.gif
+[priest_normal_10_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_10.png
+[priest_normal_10_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_10.gif
+[priest_normal_11_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_11.png
+[priest_normal_11_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_11.gif
+[priest_normal_12_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_12.png
+[priest_normal_12_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/normal_12.gif
 [priest_bishop_01_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/bishop_01.png
 [priest_bishop_01_gif]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/bishop_01.gif
 [priest_bishop_02_png]: https://windslayer-wiki.github.io/assets/windslayer/jobs/priest/bishop_02.png

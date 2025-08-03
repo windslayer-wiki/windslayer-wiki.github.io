@@ -19,6 +19,7 @@ cover: https://windslayer.sesisoft.com/static/media/top_bg.666200b8ec612320e954.
 자세한 기여 방법은 [여기](https://)를 참고해주세요.
 
 ## 위키 업데이트 내역
+* `25-07-30` 전 직업 스킬 설명 수정 및 페이지 reference link 형식으로 변경
 * `25-07-28` 필드맵, 초보모험가 및 무도가(파이터) 스킬 내용 추가
 
 ## 윈드슬레이어 공식 페이지
